@@ -38,6 +38,7 @@ pip install requests 
 pip install httpx
 pip install pystyle
 ```
+```
 cd $HOME
 rm -rf RMX
 git clone https://github.com/ERRORDEATH-403/RMX
@@ -49,6 +50,7 @@ python RMX.py
 
 ___THIS TOOLS IS PAID AND FREE THERE ARE BOTH.___</br>
 
-ENJOY THIS TOOL=<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+ENJOY THIS TOOL=
+<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
 ![MR ERROR TOOL]
