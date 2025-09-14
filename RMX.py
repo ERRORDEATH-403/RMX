@@ -3,7 +3,7 @@ import os
 import socket
 import subprocess
 arc = None
-print(f'\033[1;97m[\x1b[38;5;46m•\033[1;97m] \x1b[38;5;46mECHECKING FOR UPDATED ')
+print(f'\033[1;97m[\x1b[38;5;46m•\033[1;97m] \x1b[38;5;46mCHECKING FOR UPDATED ')
 os.system('git pull --quiet')
 
 def main():
